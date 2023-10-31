@@ -1,0 +1,15 @@
+d7ce5bdf45b881379398a8fa8b29fdd9
+Base url:https://api.themoviedb.org/3
+now playing:https://api.themoviedb.org/3/movie/now_playing?api_key=d7ce5bdf45b881379398a8fa8b29fdd9
+search:
+https://api.themoviedb.org/3/search/movie?api_key=d7ce5bdf45b881379398a8fa8b29fdd9&query=avatar&include_adult=false&language=en-US&page=1
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=d7ce5bdf45b881379398a8fa8b29fdd9&language=en-US&page=1
+Top:
+https://api.themoviedb.org/3/movie/top_rated?api_key=d7ce5bdf45b881379398a8fa8b29fdd9&language=en-US&page=1
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?api_key=d7ce5bdf45b881379398a8fa8b29fdd9&language=en-US&page=1
+Details:
+https://api.themoviedb.org/3/discover/movie?api_key=d7ce5bdf45b881379398a8fa8b29fdd9&include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=d7ce5bdf45b881379398a8fa8b29fdd9
